@@ -1,4 +1,6 @@
 This is first line add for file creation
 This is add as master file.
 
+
+This line add from feature1
 This is new line added from feature f2. want to inculde in f1 or develope.add at 6.14 PM
